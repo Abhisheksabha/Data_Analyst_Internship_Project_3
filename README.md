@@ -2,7 +2,7 @@
 
 ## Power BI Dashboard
 ![](https://github.com/Abhisheksabha/Data_Analyst_Internship_Project_3/blob/main/Zomato_Power_BI_Report_1.png)
-1[](https://github.com/Abhisheksabha/Data_Analyst_Internship_Project_3/blob/main/Zomato_Power_BI_Report_2.png)
+![](https://github.com/Abhisheksabha/Data_Analyst_Internship_Project_3/blob/main/Zomato_Power_BI_Report_2.png)
 
 ## Tableau Dashoard
 ![](https://github.com/Abhisheksabha/Data_Analyst_Internship_Project_3/blob/main/Zomato_Tableau_Dashboard_1.png)
